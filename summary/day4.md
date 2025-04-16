@@ -1,4 +1,4 @@
-Day 4（2025.04.12）: 进程管理与Python联动
+Day 4（2025.04.12）: 进程管理与Python联动  
 学习内容：  
 - 进程查看：`ps`, `top`, `kill`
 - 运行Python脚本：`python3 your_script.py`  
@@ -22,10 +22,10 @@ Day 4（2025.04.12）: 进程管理与Python联动
 或 脚本中+`flush=True`  （强制刷新）
 - 查找 PID：`pgrep [进程名]"`  
 
-资源：
-1.[Linux Command Library (建议使用搜索查找目标命令)]
-https://linuxcommandlibrary.com/ 
-2.[DigitalOcean 进程管理教程]
-https://www.digitalocean.com/community/tutorials/how-to-use-ps-kill-and-nice-to-manage-processes-in-linux
-3.[Python 时间格式化代码表]
+资源：  
+[Linux Command Library (建议使用搜索查找目标命令)]  
+https://linuxcommandlibrary.com/   
+[DigitalOcean 进程管理教程]  
+https://www.digitalocean.com/community/tutorials/how-to-use-ps-kill-and-nice-to-manage-processes-in-linux  
+[Python 时间格式化代码表]  
 https://strftime.org/
