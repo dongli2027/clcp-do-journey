@@ -33,7 +33,8 @@ https://learn.microsoft.com/zh-cn/windows/wsl/install
 [linux目录]  
 https://www.cnblogs.com/quchengfeng/p/4615660.html  
 [Linux命令，综合等]  
-https://linuxjourney.com/  
-日后的：  
-4.https://wiki.termux.com/  
-5.https://blog.csdn.net/wanghuiwei888/article/details/90578813
+https://linuxjourney.com/      
+[常用Linux命令]  
+https://blog.csdn.net/wanghuiwei888/article/details/90578813  
+[Termux维基]  
+https://wiki.termux.com/
