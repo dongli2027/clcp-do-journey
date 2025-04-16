@@ -27,13 +27,13 @@ usr：安装的软件
 4. mkdir：创建文件夹
 5. touch：创建文件
 
-资源：
-1.[wsl指南]
-https://learn.microsoft.com/zh-cn/windows/wsl/install
-2.[linux目录]
-https://www.cnblogs.com/quchengfeng/p/4615660.html
-3.[Linux命令，综合等]
-https://linuxjourney.com/
-日后的：
-4.https://wiki.termux.com/
+资源：  
+[wsl指南]  
+https://learn.microsoft.com/zh-cn/windows/wsl/install  
+[linux目录]  
+https://www.cnblogs.com/quchengfeng/p/4615660.html  
+[Linux命令，综合等]  
+https://linuxjourney.com/  
+日后的：  
+4.https://wiki.termux.com/  
 5.https://blog.csdn.net/wanghuiwei888/article/details/90578813
