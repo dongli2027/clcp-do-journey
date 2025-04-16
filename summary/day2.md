@@ -23,17 +23,17 @@ Day 2（2025.04.10）: 文件操作进阶
 
 3.Vim退出 🚪  
 a.狂按 `Esc`（确保进入命令模式）  
-b.
+b.  
 - 保存退出→ :wq 
 - 强制退出→ :q! 
 - 未修改退出→ :q  
 - 仅保存暂不退出→ :w
 c.按回车执行 
 
-资源：
-[全基础命令权威解释文档] 
-https://www.gnu.org/software/coreutils/manual/coreutils.html
-[nano 快速指南]
-https://www.nano-editor.org/dist/latest/cheatsheet.html  
-[命令速查表]
+资源：  
+[全基础命令权威解释文档]   
+https://www.gnu.org/software/coreutils/manual/coreutils.html  
+[nano 快速指南]  
+https://www.nano－editor.org/dist/latest/cheatsheet.html    
+[命令速查表]  
 https://cheatography.com/davechild/cheat-sheets/linux-command-line/
