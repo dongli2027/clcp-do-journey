@@ -1,7 +1,7 @@
-Day 3（2025.04.11）: 用户权限管理
+Day 3（2025.04.11）: 用户权限管理  
 学习内容：  
-  - 用户与组：`sudo`, `useradd`, `chown`, `chmod`  
-  - 理解权限符号（如`rwx`）和数字表示（如`755`）  
+- 用户与组：`sudo`, `useradd`, `chown`, `chmod`  
+- 理解权限符号（如`rwx`）和数字表示（如`755`）  
 实践任务：  
 新建一个用户`testuser`，并修改`hello.txt`的权限为仅该用户可读写  
 注意：  
@@ -23,11 +23,11 @@ Day 3（2025.04.11）: 用户权限管理
 权限符号：  
 `r` = 读（4） / `w` = 写（2） / `x` = 执行（1）   
 权限命令：  
-  - `chown 用户:组 文件`**：修改所有者（需 `sudo`）  
-  - `chmod 权限值 文件`**：直接设置权限
+- `chown 用户:组 文件`**：修改所有者（需 `sudo`）  
+- `chmod 权限值 文件`**：直接设置权限
 
 资源:  
-[红帽官方权限文档]
-https://www.redhat.com/sysadmin/linux-file-permissions-explained 
-[菜鸟教程-Linux权限]
+[红帽官方权限文档]  
+https://www.redhat.com/sysadmin/linux-file-permissions-explained  
+[菜鸟教程-Linux权限]  
 https://www.runoob.com/linux/linux-file-attr-permission.html
