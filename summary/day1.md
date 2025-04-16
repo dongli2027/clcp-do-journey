@@ -1,4 +1,4 @@
-Day 1（2025.04.09）: 环境准备与初识Linux
+Day 1（2025.04.09）: 环境准备与初识Linux  
 学习内容：  
 - 安装WSL2（Windows用户）或虚拟机（Mac用户）  
 - 学习Linux目录结构（/bin, /home, /etc等）  
