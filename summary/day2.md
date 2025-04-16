@@ -1,12 +1,11 @@
 Day 2（2025.04.10）: 文件操作进阶
-学习内容：  
-- 文件操作：cp, mv, rm, cat, echo  
-- 文本编辑：nano或vim基础（只需学会保存退出即可）  
-实践任务：  
-- 将`hello.txt`复制到新目录`backup`，并重命名为`hello_backup.txt`  
-- 用`echo "Hello Linux" >> hello.txt`追加内容  
-小技巧：  
-- 使用`tab`键自动补全路径，`Ctrl+C`强制终止当前命令
+- 学习内容：  
+  - 文件操作：cp, mv, rm, cat, echo  
+  - 文本编辑：nano或vim基础（只需学会保存退出即可）  
+- 实践任务：  
+  - 将`hello.txt`复制到新目录`backup`，并重命名为`hello_backup.txt`  
+  - 用`echo "Hello Linux" >> hello.txt`追加内容  
+- 小技巧：使用`tab`键自动补全路径，`Ctrl+C`强制终止当前命令
 
 笔记: 
 🔑 核心内容  
