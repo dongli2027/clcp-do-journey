@@ -2,9 +2,9 @@ Day 1（2025.04.09）: 环境准备与初识Linux
 学习内容：  
 - 安装WSL2（Windows用户）或虚拟机（Mac用户）  
 - 学习Linux目录结构（/bin, /home, /etc等）  
-基础命令：pwd, ls, cd, mkdir, touch  
-实践任务：  
-在WSL2中创建目录`/home/yourname/learn_linux`，并新建文件`hello.txt`  
+  - 基础命令：pwd, ls, cd, mkdir, touch  
+  - 实践任务：在WSL2中创建目录`/home/yourname/learn_linux`，并新建文件`hello.txt`
+
 快速命令参考：ls -l查看文件详情，cd ~返回家目录  
 
 笔记:
