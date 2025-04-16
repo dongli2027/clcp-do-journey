@@ -17,7 +17,7 @@ Day 2（2025.04.10）: 文件操作进阶
 - cat file → 查看内容  
 - echo "text" >> file → 追加内容（`>`覆盖）  
 
-3. 文本编辑器  
+2. 文本编辑器  
 - Nano：直接编辑 → `Ctrl+O`保存 → `Ctrl+X`退出  
 - Vim：`i`进入编辑 → `Esc` → `:wq`保存退出
 
@@ -32,9 +32,9 @@ Day 2（2025.04.10）: 文件操作进阶
 - 按回车执行 
 
 资源：  
-[全基础命令权威解释文档]   
+[全基础命令权威解释文档]  
 https://www.gnu.org/software/coreutils/manual/coreutils.html  
 [nano 快速指南]  
-https://www.nano－editor.org/dist/latest/cheatsheet.html    
+https://www.nano－editor.org/dist/latest/cheatsheet.html  
 [命令速查表]  
 https://cheatography.com/davechild/cheat-sheets/linux-command-line/
