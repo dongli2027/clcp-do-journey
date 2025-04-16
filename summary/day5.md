@@ -1,9 +1,9 @@
 Day 5（2025.04.13）: Shell脚本入门  
-学习内容：  
-  Shell脚本基础：`#!/bin/bash`、变量、`if`判断  
-实践任务：  
-- 编写脚本`backup.sh`：自动将指定目录备份到`/backup`并打时间戳  
-- 示例代码：  
+学习内容：  
+Shell脚本基础：`#!/bin/bash`、变量、`if`判断  
+实践任务:  
+- 编写脚本`backup.sh`：自动将指定目录备份到`/backup`并打时间戳
+- 示例代码:  
     #!/bin/bash
     cp -r $1 /backup/$(date +%Y%m%d)`
 
